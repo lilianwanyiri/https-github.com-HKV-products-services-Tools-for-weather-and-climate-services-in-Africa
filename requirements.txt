@@ -1,6 +1,6 @@
-ipyleaflet
-earthengine-api
+ipywidgets
 geemap
+earthengine-api
 scipy
 matplotlib
 numpy
