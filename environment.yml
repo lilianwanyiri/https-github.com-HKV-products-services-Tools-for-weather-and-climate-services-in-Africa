@@ -1,4 +1,4 @@
-name: pysteps
+name: myenv
 channels:
 - conda-forge
 - defaults
